@@ -1,3 +1,9 @@
+# PS Inventory Fix
+This fork of Jim-Bridge will fix all issues with the new version of PS-Inventory. All you have to do is drag and drop. 
+
+YouTube Demonstration: 
+- https://www.youtube.com/watch?v=Hurx5JnUv0E&t=5s **Subscribe if this helped you, please!**
+-------
 # Jim_Bridge
 
 This script is intended to be used with my all my scripts (soon)
